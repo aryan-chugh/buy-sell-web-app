@@ -1,0 +1,20 @@
+/* Sidebar */
+.filters-sidebar {
+    background: #fff;
+    border-right: 1px solid #ddd;
+  }
+  
+  /* Frequently Searched */
+  .frequently-searched {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Product Cards */
+  .card {
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  

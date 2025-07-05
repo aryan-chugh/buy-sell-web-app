@@ -1,0 +1,58 @@
+.profile-page {
+    /* margin-top: 50px; */
+    left:8%;
+    width:92%;
+
+    background-color: grey;
+    
+    position: absolute;
+    height:100%;
+
+    padding: 5%;
+}
+  
+.profile-img {
+    width: 35%;
+    height: 55%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ddd;
+
+    margin-right: 2.5%;
+
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    /* background-color: black; */
+}
+
+.details-div {
+    width: 35%;
+    height: 55%;
+    object-fit: cover;
+
+    margin-right: 2.5%;
+
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.user-detail {
+    margin-left: 2.5%;
+    margin-bottom:5%;
+}
+  
+.edit-icon {
+    cursor: pointer;
+    color: #007bff;
+}
+  
+.edit-icon:hover {
+    color: #0056b3;
+}
+  
+.edit-field input {
+    width: 100%;
+}
+  

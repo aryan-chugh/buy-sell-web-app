@@ -1,0 +1,36 @@
+.titleDiv {
+    width: 92%;
+    right: 0%;
+    padding: 1%;
+    background-color: green;
+    display: flex;
+    text-align: right;
+    justify-content: center;
+    align-items: center;
+
+    box-sizing: border-box;
+}
+/* 
+h2 {
+    width: 90%;
+    margin: 2% 5%;   
+
+    box-sizing: border-box;
+} */
+
+.titleDiv {
+    width: 100%;    
+    padding: 8%;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+h2 {
+    width: 90%;
+    margin: 2% 5%;
+    margin-left: 10%;   
+    box-sizing: border-box;
+}
